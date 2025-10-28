@@ -1,0 +1,5 @@
+{
+  "name": "Flora AI: Gardening Assistant",
+  "description": "An AI-powered gardening assistant that identifies plants from photos and provides expert care advice through an interactive chatbot.",
+  "requestFramePermissions": []
+}
